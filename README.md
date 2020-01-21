@@ -1,2 +1,2 @@
 # Data_in_table
-Prezentacja danych w formie tabeli
+Data presentation in the table 
